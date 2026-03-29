@@ -51,3 +51,4 @@ The timer automatically alternates between work and break phases and displays th
 - Custom alert sounds (besides frequency and duration in the code)
 - Better UI styling/themes
 - Add full-screen functionality
+- Make it usable as standalone executable
